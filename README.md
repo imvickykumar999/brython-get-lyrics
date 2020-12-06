@@ -1,11 +1,6 @@
-# IEEEMAITSongs
+# [Brython Songs Lyrics](https://imvickykumar999.github.io/brython-get-lyrics/)
 
-This is a very basic approch to get the lyrics of the song provided the artist name and title of the song. Though I was not able accomplish all the task because of shortage of time, but atleast I had to show whatever I have done and how my soluton still works good!
-
-Link: [Click me!](https://kaustubhgupta.github.io/IEEEMAITSongs/)
-
-# Tech Stack
-Being a python developer I don't have any idea of javascript. So I used Brython which transcripts the Python code to equivalent Javascript code. Overall things used:
+## Being a python developer I don't have any idea of javascript. So I used Brython which transcripts the Python code to equivalent Javascript code. Overall things used:
 - Brython: Handling the API calls 
 - HTML: Basic web structure
 - CSS: Some refining
@@ -17,6 +12,3 @@ Being a python developer I don't have any idea of javascript. So I used Brython 
 
 ## How to use?
 Simply go to the link!
-
-## Articles
-https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f
